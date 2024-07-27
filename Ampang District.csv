@@ -1,0 +1,676 @@
+DISTRICT,DATE_OF_VALUATION,LOT_SIZE,CATEGORY,SECTOR,PRO_TYPE,NO_OF_FLOOR,ALAMAT,SCHEME,PRICE,YEAR
+Mukim Ampang,10/10/2019,1532,Detached House,Residential,Detached,2,"110C TMN U-THANT,JLN U-THANT","39,LINGKUNGAN U-THANT",8300000,2019
+Mukim Ampang,6/1/2020,1451,Vacant Residential Plot,Residential,Vacant Plot,0,"97,JLN U-THANT",LINGKUNGAN U-THANT,8000000,2020
+Mukim Ampang,2/2/2021,1086,Vacant Residential Plot,Residential,Vacant Plot,,"LOT 9522,JALAN KERANJI 1",KAW JLN AMPANG/AMPANG HILIR,7948935,2021
+Mukim Ampang,23/6/2017,743,Detached House,Residential,Detached,2,"NO. 21,JLN KERANJI 2",KAW JLN AMPANG/AMPANG HILIR,5700000,2017
+Mukim Ampang,27/8/2020,1204.15,Detached House,Residential,Detached,2,"7,JLN.MENGKUANG",KAW JLN AMPANG/AMPANG HILIR,4800000,2020
+Mukim Ampang,1/10/2018,646,Condominium/Apartment,Residential,Condominium/Apartment,16,"A2-3,JLN WICKHAM",AMARIN WICKHAM,4500000,2018
+Mukim Ampang,22/11/2018,696.55,Detached House,Residential,Detached,2,"4,PERSIARAN AMPANG",KAW JLN AMPANG/AMPANG HILIR,4500000,2018
+Mukim Ampang,2/11/2018,712.5,Detached House,Residential,Detached,2,"14,JLN.MENGKUANG",KAW JLN AMPANG/AMPANG HILIR,4300000,2018
+Mukim Ampang,8/12/2020,318,Condominium/Apartment,Residential,Condominium/Apartment,6,"3-01,LINGKUNGAN U-THAN","39,LINGKUNGAN U-THANT",4000000,2020
+Mukim Ampang,5/9/2018,613,Condominium/Apartment,Residential,Condominium/Apartment,6,"A5-3,JLN WICKHAM",AMARIN WICKHAM,3950000,2018
+Mukim Ampang,18/2/2019,743.2,Detached House,Residential,Detached,2,"3A,JLN.MENGKUANG OFF JLN RU",KAW JLN AMPANG/AMPANG HILIR,3800000,2019
+Mukim Ampang,28/12/2018,855,Vacant Residential Plot,Residential,Vacant Plot,,"LOT 12248,JALAN KEDONDONG",KPG DESA PAHLAWAN,3500000,2018
+Mukim Ampang,8/9/2020,759.63,Detached House,Residential,Detached,2,"22,JALAN PAWANG",DATO KERAMAT HUJUNG,3350000,2020
+Mukim Ampang,17/11/2020,550,Detached House,Residential,Detached,2,"6,JLN WIRAWATI",TMN MALURI,2900000,2020
+Mukim Ampang,13/2/2017,689,Detached House,Residential,Detached,2,"1E,JALAN AMPANG ULU 3",KAW JLN AMPANG/AMPANG HILIR,2500000,2017
+Mukim Ampang,7/2/2017,1116,Detached House,Residential,Detached,2,"20,JLN PAWANG",DATO KERAMAT HUJUNG,2400000,2017
+Mukim Ampang,12/10/2020,317,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.86,JALAN AMPANG HILIR",KAW JLN AMPANG/AMPANG HILIR,2400000,2020
+Mukim Ampang,8/3/2018,394,Condominium/Apartment,Residential,Condominium/Apartment,6,"1-01,LINGKUNGAN U-THANT","39,LINGKUNGAN U-THANT",2300000,2018
+Mukim Ampang,17/3/2020,1090,Vacant Residential Plot,Residential,Vacant Plot,,"LOT 11994,JALAN KEDONDONG",KPG DESA PAHLAWAN,2300000,2020
+Mukim Ampang,1/6/2020,816,Detached House,Residential,Detached,2,"1,JLN.BOMOH",DATO KERAMAT HUJUNG,2200000,2020
+Mukim Ampang,11/12/2019,290,Condominium/Apartment,Residential,Condominium/Apartment,25,"B-19-3A,JALAN 1/76E",MUTIARA UPPER EAST CONDO,2067000,2019
+Mukim Ampang,17/10/2019,290,Condominium/Apartment,Residential,Condominium/Apartment,25,"A-19-3A,JALAN 1/76E",MUTIARA UPPER EAST CONDO,2000000,2019
+Mukim Ampang,27/10/2020,351,Condominium/Apartment,Residential,Condominium/Apartment,25,"A-17-1,JALAN 1/76E",MUTIARA UPPER EAST CONDO,2000000,2020
+Mukim Ampang,26/10/2017,940,Vacant Residential Plot,Residential,Vacant Plot,,"LOT 12367,JALAN KEDONDONG OFF JLN AMPANG HILIR",KPG DESA PAHLAWAN,2000000,2017
+Mukim Ampang,13/8/2020,243,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.88,JALAN AMPANG HILIR",KAW JLN AMPANG/AMPANG HILIR,2000000,2020
+Mukim Ampang,28/8/2019,680,Detached House,Residential,Detached,2,"NO.55,JALAN KERAMAT HUJUNG",DATO KERAMAT HUJUNG,1900000,2019
+Mukim Ampang,28/10/2020,264,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.6,LRG MENGKUDU 1",KAW JLN AMPANG/AMPANG HILIR,1840000,2020
+Mukim Ampang,8/11/2018,443.598,Semi-Detached House,Residential,2 - 2 1/2 Storey Semi-Detached,2,"28,JALAN PERKASA 2",TMN MALURI,1750000,2018
+Mukim Ampang,28/6/2019,1100,Vacant Residential Plot,Residential,Vacant Plot,,"LOT 12006 (PT2495),JALAN KEDONDONG",KPG DESA PAHLAWAN,1600000,2019
+Mukim Ampang,12/12/2019,231,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.102,JALAN AMPANG HILIR",KAW JLN AMPANG/AMPANG HILIR,1600000,2019
+Mukim Ampang,8/5/2020,312.144,Semi-Detached House,Residential,2 - 2 1/2 Storey Semi-Detached,2,"18,JLN PERKASA 3",TMN MALURI,1590000,2020
+Mukim Ampang,24/12/2018,326,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"23,LORONG MENGKUDU 2",KAW JLN AMPANG/AMPANG HILIR,1590000,2018
+Mukim Ampang,16/10/2018,193,Condominium/Apartment,Residential,Condominium/Apartment,25,"B-15-1,JALAN 1/76",MUTIARA UPPER EAST CONDO,1550000,2018
+Mukim Ampang,10/12/2018,193,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-5-7,JALAN 1/76",MUTIARA UPPER EAST CONDO,1500000,2018
+Mukim Ampang,12/11/2018,263.37,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO. 23,PERSIARAN AMPANG",KAW JLN AMPANG/AMPANG HILIR,1500000,2018
+Mukim Ampang,27/11/2020,250,Condominium/Apartment,Residential,Condominium/Apartment,21,"11-04,JLN AMPANG HILIR",TARA KONDOMINIUM,1480000,2020
+Mukim Ampang,30/11/2020,264,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO. 11,LRG MENGKUDU DUA",KAW JLN AMPANG/AMPANG HILIR,1480000,2020
+Mukim Ampang,9/10/2018,193,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-16-8,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1450000,2018
+Mukim Ampang,26/9/2017,263.372,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.15,PERSIARAN AMPANG",KAW JLN AMPANG/AMPANG HILIR,1450000,2017
+Mukim Ampang,26/10/2017,239,Condominium/Apartment,Residential,Condominium/Apartment,21,"15-02,AMPANG HILIR",TARA KONDOMINIUM,1430000,2017
+Mukim Ampang,14/6/2017,249,Condominium/Apartment,Residential,Condominium/Apartment,21,"6-01,AMPANG HILIR",TARA KONDOMINIUM,1420000,2017
+Mukim Ampang,17/12/2019,161,Town Houses,Residential,Town House,6,"A-0-14,JALAN RITCHIE",AMPANG 971 CONDO,1400000,2019
+Mukim Ampang,29/10/2018,193,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-16-1,JALAN 1/76",MUTIARA UPPER EAST CONDO,1400000,2018
+Mukim Ampang,14/6/2020,160,Town Houses,Residential,Town House,4,"C-0-3,JLN RITCHIE",AMPANG 971 CONDO,1400000,2020
+Mukim Ampang,16/6/2017,250,Condominium/Apartment,Residential,Condominium/Apartment,21,"12-4,AMPANG HILIR",TARA KONDOMINIUM,1400000,2017
+Mukim Ampang,30/9/2020,261.049,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"21,JLN MENGKUDU 1",KAW JLN AMPANG/AMPANG HILIR,1380000,2020
+Mukim Ampang,20/3/2019,193,Condominium/Apartment,Residential,Condominium/Apartment,25,"B-8-1,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1380000,2019
+Mukim Ampang,4/7/2018,160,Town Houses,Residential,Town House,4,"C-0-9,JALAN RITCHIE",AMPANG 971 CONDO,1377500,2018
+Mukim Ampang,12/3/2020,264,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.19,LORONG MENGKUDU 1",KAW JLN AMPANG/AMPANG HILIR,1360000,2020
+Mukim Ampang,7/8/2019,193,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-13A-2,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1355000,2019
+Mukim Ampang,7/1/2021,312.144,Semi-Detached House,Residential,2 - 2 1/2 Storey Semi-Detached,2,"20,JLN PERKASA 6",TMN MALURI,1350000,2021
+Mukim Ampang,7/1/2021,312.144,Semi-Detached House,Residential,2 - 2 1/2 Storey Semi-Detached,2,"22,JALAN PERKASA 6",TMN MALURI,1350000,2021
+Mukim Ampang,18/12/2018,160,Town Houses,Residential,Town House,4,"A-0-7,AMPANG 971",AMPANG 971 CONDO,1350000,2018
+Mukim Ampang,5/12/2018,160,Town Houses,Residential,Town House,4,"A-0-9,AMPANG 971",AMPANG 971 CONDO,1350000,2018
+Mukim Ampang,27/2/2019,193,Condominium/Apartment,Residential,Condominium/Apartment,25,"B-10-07,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1350000,2019
+Mukim Ampang,19/1/2021,426.597,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"2,WIRAWATI 8",TMN MALURI,1340000,2021
+Mukim Ampang,3/12/2020,160,Town Houses,Residential,Town House,6,"B-0-7,AMPANG 971",AMPANG 971 CONDO,1340000,2020
+Mukim Ampang,3/12/2018,186,Condominium/Apartment,Residential,Condominium/Apartment,25,"A-13-7,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1330000,2018
+Mukim Ampang,9/10/2017,160,Town Houses,Residential,Town House,6,"C-0-5,JALAN RITCHIE, OFF JLN AMPANG",AMPANG 971 CONDO,1310000,2017
+Mukim Ampang,26/12/2017,160,Town Houses,Residential,Town House,6,"B-0-14,AMPANG 971",AMPANG 971 CONDO,1308000,2017
+Mukim Ampang,15/3/2018,160,Condominium/Apartment,Residential,Condominium/Apartment,6,"B-0-6,AMPANG 971",AMPANG 971 CONDO,1300000,2018
+Mukim Ampang,12/7/2017,193,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-03-01,JALAN 1/76E,DESA PANDAN",MUTIARA UPPER EAST CONDO,1300000,2017
+Mukim Ampang,13/3/2019,193,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-3A-1,JALAN 1/76",MUTIARA UPPER EAST CONDO,1300000,2019
+Mukim Ampang,26/9/2019,249,Condominium/Apartment,Residential,Condominium/Apartment,21,"13-2,JLN AMPANG HILIR",TARA KONDOMINIUM,1280000,2019
+Mukim Ampang,30/4/2018,160,Town Houses,Residential,Town House,4,"D-0-6,JALAN RITCHIE",AMPANG 971 CONDO,1260000,2018
+Mukim Ampang,22/8/2017,229,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"22,LRG MENGKUDU KEDUA",KAW JLN AMPANG/AMPANG HILIR,1250000,2017
+Mukim Ampang,11/10/2018,156,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-12-5,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1250000,2018
+Mukim Ampang,13/7/2020,200.02,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO. 16,LRG DEDALU",KAW JLN AMPANG/AMPANG HILIR,1250000,2020
+Mukim Ampang,21/11/2018,312.14,Semi-Detached House,Residential,2 - 2 1/2 Storey Semi-Detached,2,"8,JLN PERKASA 3",TMN MALURI,1230000,2018
+Mukim Ampang,23/4/2019,312.15,Semi-Detached House,Residential,2 - 2 1/2 Storey Semi-Detached,2,"15,JLN PERKASA 3",TMN MALURI,1200000,2019
+Mukim Ampang,25/3/2019,156,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-12-5,JALAN 1/76",MUTIARA UPPER EAST CONDO,1200000,2019
+Mukim Ampang,30/9/2019,159,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-7-3A,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1200000,2019
+Mukim Ampang,23/2/2018,159,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-16-3A,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1180000,2018
+Mukim Ampang,11/4/2018,200,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.18,LORONG DEDALU",KAW JLN AMPANG/AMPANG HILIR,1160000,2018
+Mukim Ampang,22/5/2017,156,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-13-03,JALAN 1/76",MUTIARA UPPER EAST CONDO,1150000,2017
+Mukim Ampang,25/5/2018,145,Condominium/Apartment,Residential,Condominium/Apartment,25,"B-11-6,JALAN 1/76E,DESA PANDAN",MUTIARA UPPER EAST CONDO,1150000,2018
+Mukim Ampang,23/9/2020,159,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-01-3A,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1150000,2020
+Mukim Ampang,16/12/2020,193,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-13-8,JALAN 1/76E, DESA PANDAN",MUTIARA UPPER EAST CONDO,1120000,2020
+Mukim Ampang,15/5/2018,160,Town Houses,Residential,Town House,4,"C-0-13,JALAN RITCHIE",AMPANG 971 CONDO,1100000,2018
+Mukim Ampang,21/2/2017,159,Condominium/Apartment,Residential,Condominium/Apartment,25,"A-5-3A,JALAN 1/76",MUTIARA UPPER EAST CONDO,1080000,2017
+Mukim Ampang,9/5/2017,159,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-08-3A,JALAN 1/76",MUTIARA UPPER EAST CONDO,1080000,2017
+Mukim Ampang,23/2/2018,156,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-09-5,JALAN 1/76E",MUTIARA UPPER EAST CONDO,1080000,2018
+Mukim Ampang,17/3/2021,148,Town Houses,Residential,Town House,4,"C-1-11(P:9-1-001),JALAN RITCHIE",AMPANG 971 CONDO,1065000,2021
+Mukim Ampang,24/3/2021,153.29,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"54,JLN PERTIWI",TMN MALURI,1050000,2021
+Mukim Ampang,3/3/2017,145,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-12-6,JALAN 1/76",MUTIARA UPPER EAST CONDO,1050000,2017
+Mukim Ampang,26/8/2020,257,Condominium/Apartment,Residential,Condominium/Apartment,21,"3-04,JLN AMPANG HILIR",TARA KONDOMINIUM,1050000,2020
+Mukim Ampang,11/9/2017,159,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-6-3A,JALAN 1/76",MUTIARA UPPER EAST CONDO,1030006,2017
+Mukim Ampang,3/1/2018,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"169,JALAN PERTIWI",TMN MALURI,1010000,2018
+Mukim Ampang,7/12/2018,312.144,Semi-Detached House,Residential,2 - 2 1/2 Storey Semi-Detached,2,"NO.8,JALAN PERKASA 8",TMN MALURI,1010000,2018
+Mukim Ampang,17/11/2020,407,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"171,JLN PERTIWI",TMN MALURI,1000000,2020
+Mukim Ampang,27/2/2019,776,Detached House,Residential,Detached,2,"26,JLN SATU",KG PANDAN,1000000,2019
+Mukim Ampang,3/7/2017,222.96,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"29,JLN PRIA 2",TMN MALURI,1000000,2017
+Mukim Ampang,19/11/2020,408.203,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"69,JALAN PRIA 2",TMN MALURI,1000000,2020
+Mukim Ampang,13/7/2018,101,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-16-06,G RESIDENCE,JALAN DESA PANDAN",DESA PANDAN,1000000,2018
+Mukim Ampang,13/5/2020,161,Town Houses,Residential,Town House,4,"B-0-5 (P: 5-0-1),JLN RITCHIE OFF JLN AMPANG",AMPANG 971 CONDO,1000000,2020
+Mukim Ampang,13/5/2020,161,Town Houses,Residential,Town House,6,"B-0-5 (P: 5-0-1),JLN RITCHIE OFF JLN AMPANG",AMPANG 971 CONDO,1000000,2020
+Mukim Ampang,13/5/2020,161,Town Houses,Residential,Town House,6,"B-0-5 (P: 5-0-1),JLN RITCHIE OFF JLN AMPANG",AMPANG 971 CONDO,1000000,2020
+Mukim Ampang,19/1/2018,148,Town Houses,Residential,Town House,4,"C-1-10(P:8-1-4),JALAN RITCHIE",AMPANG 971 CONDO,1000000,2018
+Mukim Ampang,4/5/2017,147,Town Houses,Residential,Town House,6,"C-1-11,JALAN RITCHIE",AMPANG 971 CONDO,1000000,2017
+Mukim Ampang,4/10/2017,147,Town Houses,Residential,Town House,6,"C-1-18,JALAN RITCHIE",AMPANG 971 CONDO,1000000,2017
+Mukim Ampang,11/8/2017,147,Town Houses,Residential,Town House,4,"C-1-19,JALAN RITCHIE",AMPANG 971 CONDO,1000000,2017
+Mukim Ampang,24/3/2017,254,Town Houses,Residential,Town House,6,"D-1-3,JALAN RITCHIE",AMPANG 971 CONDO,1000000,2017
+Mukim Ampang,10/5/2019,153,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.15,JLN 2/67A",KAW JLN AMPANG/AMPANG HILIR,1000000,2019
+Mukim Ampang,9/3/2020,147,Town Houses,Residential,Town House,6,"B-1-8(P:5-1004),JALAN RITCHIE, OFF JLN AMPANG HILI",AMPANG 971 CONDO,950000,2020
+Mukim Ampang,9/1/2017,14.974,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-16-3,JALAN 1/76E",MUTIARA UPPER EAST CONDO,950000,2017
+Mukim Ampang,30/9/2020,147,Town Houses,Residential,Town House,4,"D-1-2,JALAN RITCHIE, OFF JLN AMPANG",AMPANG 971 CONDO,950000,2020
+Mukim Ampang,20/11/2017,187,Condominium/Apartment,Residential,Condominium/Apartment,7,"20-2-1,JLN WICKHAM",WICKHAM MANOR,950000,2017
+Mukim Ampang,7/2/2020,187,Condominium/Apartment,Residential,Condominium/Apartment,7,"20-5-1,JLN WICKHAM",WICKHAM MANOR,950000,2020
+Mukim Ampang,8/3/2018,148,Town Houses,Residential,Town House,4,"D-1-1,JALAN RITCHIE",AMPANG 971 CONDO,930000,2018
+Mukim Ampang,17/3/2017,145,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-03-6,JALAN 1/76",MUTIARA UPPER EAST CONDO,925000,2017
+Mukim Ampang,9/11/2020,151.799,Town Houses,Residential,Town House,4,"D-1-12,JALAN RITCHIE",AMPANG 971 CONDO,920000,2020
+Mukim Ampang,14/2/2017,149,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"24,JALAN BELANGKAS 1",KG PANDAN,900000,2017
+Mukim Ampang,9/5/2019,222.96,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"32,JLN WIRAWATI 9",TMN MALURI,900000,2019
+Mukim Ampang,4/12/2019,462,Detached House,Residential,Detached,1,"33,LORONG 3",KPG DESA PAHLAWAN,900000,2019
+Mukim Ampang,31/10/2018,147,Town Houses,Residential,Town House,6,"A-1-13,(P:3-1-003),AMPANG 971",AMPANG 971 CONDO,900000,2018
+Mukim Ampang,7/2/2017,159,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-03A-3A,JALAN 1/76",MUTIARA UPPER EAST CONDO,900000,2017
+Mukim Ampang,3/9/2020,156,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-3-5,JALAN 1/76E",MUTIARA UPPER EAST CONDO,900000,2020
+Mukim Ampang,1/7/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.7,JALAN WIRAWATI 9",TMN MALURI,890000,2020
+Mukim Ampang,6/8/2020,153.29,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"62,JALAN PRIA 4",TMN MALURI,880000,2020
+Mukim Ampang,5/4/2019,145,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-5-6,JALAN 1/76E",MUTIARA UPPER EAST CONDO,880000,2019
+Mukim Ampang,23/1/2017,148,Town Houses,Residential,Town House,6,"C-1-10(P:8-1-4),JALAN RITCHIE",AMPANG 971 CONDO,880000,2017
+Mukim Ampang,27/7/2020,145,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-09-6,JALAN 1/76",MUTIARA UPPER EAST CONDO,880000,2020
+Mukim Ampang,31/10/2019,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"20,JLN PRIA 3",TMN MALURI,860000,2019
+Mukim Ampang,13/2/2019,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"10,JLN PRIA 6",TMN MALURI,850000,2019
+Mukim Ampang,16/2/2021,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"19,JLN PRIA 6",TMN MALURI,850000,2021
+Mukim Ampang,29/3/2018,833,Detached House,Residential,Detached,1,"196,JLN SATU",KG PANDAN,850000,2018
+Mukim Ampang,17/4/2018,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"61,JALAN WIRAWATI 9",TMN MALURI,850000,2018
+Mukim Ampang,16/3/2021,285.76,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"66,JALAN PERTIWI",TMN MALURI,850000,2021
+Mukim Ampang,7/10/2020,153.29,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO. 37,JALAN PRIA 3",TMN MALURI,850000,2020
+Mukim Ampang,16/10/2017,153.29,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO. 45,JALAN PERTIWI",TMN MALURI,840000,2017
+Mukim Ampang,18/7/2019,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"25,JLN PERTIWI",TMN MALURI,825000,2019
+Mukim Ampang,14/12/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.53,JALAN WIRAWATI 7",TMN MALURI,820000,2020
+Mukim Ampang,19/10/2020,145,Condominium/Apartment,Residential,Condominium/Apartment,9,"28-0-3,JLN PAWANG",VILLA PAWANA,810000,2020
+Mukim Ampang,18/4/2019,119,Condominium/Apartment,Residential,Condominium/Apartment,5,"M1-1-1,JALAN 5/76B",DESA PANDAN,805000,2019
+Mukim Ampang,31/12/2018,222.96,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"33,JLN WIRAWATI 6",TMN MALURI,800000,2018
+Mukim Ampang,13/6/2019,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"42,JALAN PRIA 2",TMN MALURI,800000,2019
+Mukim Ampang,10/8/2020,262.82,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"51,JLN WIRAWATI 4",TMN MALURI,800000,2020
+Mukim Ampang,28/12/2017,193,Condominium/Apartment,Residential,Condominium/Apartment,25,"B-1-2,JALAN 1/76",MUTIARA UPPER EAST CONDO,800000,2017
+Mukim Ampang,6/2/2017,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO 6,JLN WIRAWATI 9",TMN MALURI,790000,2017
+Mukim Ampang,23/10/2019,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"39,JLN WIRAWATI 8",TMN MALURI,780000,2019
+Mukim Ampang,19/2/2021,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"47,JLN WIRAWATI 9",TMN MALURI,780000,2021
+Mukim Ampang,3/10/2018,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.81,JALAN PERTIWI",TMN MALURI,780000,2018
+Mukim Ampang,8/4/2019,782,Detached House,Residential,Detached,1,"57,JLN 2",KG PANDAN,770000,2019
+Mukim Ampang,15/11/2018,192,Condominium/Apartment,Residential,Condominium/Apartment,7,"20-6-4,JLN WICKHAM",WICKHAM MANOR,767957,2018
+Mukim Ampang,30/8/2018,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"11,JLN PRIA 3",TMN MALURI,760000,2018
+Mukim Ampang,10/12/2018,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"18,JLN PRIA 4",TMN MALURI,750000,2018
+Mukim Ampang,27/1/2017,462,Detached House,Residential,Detached,1,"8,LORONG 1",KPG DESA PAHLAWAN,750000,2017
+Mukim Ampang,14/9/2017,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"145 TAMAN MALURI,JLN PERTIWI",TMN MALURI,730000,2017
+Mukim Ampang,1/4/2019,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"16,JLN PRIA 2",TMN MALURI,730000,2019
+Mukim Ampang,18/11/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"38,JLN.WIRAWATI 8",TMN MALURI,730000,2020
+Mukim Ampang,4/9/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"50,JLN WIRAWATI 7",TMN MALURI,730000,2020
+Mukim Ampang,6/7/2020,153.29,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"9,PRIA 6",TMN MALURI,725000,2020
+Mukim Ampang,25/7/2018,1013,Vacant Residential Plot,Residential,Vacant Plot,,"LOT 12004(PT 2498),OFF JALAN PAHLAWAN",KPG DESA PAHLAWAN,710000,2018
+Mukim Ampang,5/2/2018,143.06,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"17,JALAN WIRA 5",TMN MALURI,700000,2018
+Mukim Ampang,25/4/2018,153.29,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"20,JLN PERTIWI",TMN MALURI,700000,2018
+Mukim Ampang,6/3/2017,137,Condominium/Apartment,Residential,Condominium/Apartment,4,"D2-1-1,JLN KG PANDAN",DESA PANDAN,700000,2017
+Mukim Ampang,19/11/2019,156,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-3-5,JALAN 1/76E",MUTIARA UPPER EAST CONDO,700000,2019
+Mukim Ampang,13/8/2019,147,Town Houses,Residential,Town House,6,"D-1-2,JALAN RITCHIE, OFF JLN AMPANG",AMPANG 971 CONDO,700000,2019
+Mukim Ampang,3/3/2017,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO. 26,JLN PRIA 4",TMN MALURI,700000,2017
+Mukim Ampang,11/5/2018,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"40,JLN WIRAWATI 8",TMN MALURI,690000,2018
+Mukim Ampang,26/4/2018,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"A-11-8,JLN PERTIWI",PERTIWI INDAH APARTMENT,690000,2018
+Mukim Ampang,22/8/2017,119,Condominium/Apartment,Residential,Condominium/Apartment,17,"A-9-8,JLN PERTIWI",PERTIWI INDAH APARTMENT,688000,2017
+Mukim Ampang,31/12/2018,137,Flat,Residential,Flat,4,"D1-2-5,JLN KG PANDAN",DESA PANDAN,688000,2018
+Mukim Ampang,26/1/2018,463,Vacant Residential Plot,Residential,Vacant Plot,1,"46,LORONG 4",KPG DESA PAHLAWAN,680000,2018
+Mukim Ampang,28/11/2018,138,Condominium/Apartment,Residential,Condominium/Apartment,4,"H6-0-4,OFF JLN KG PANDAN",MENARA POLO,680000,2018
+Mukim Ampang,12/4/2018,119,Condominium/Apartment,Residential,Condominium/Apartment,17,"B-12-8,JLN PERTIWI",PERTIWI INDAH APARTMENT,670000,2018
+Mukim Ampang,12/6/2018,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"A-7-7,JLN PERTIWI",PERTIWI INDAH APARTMENT,660000,2018
+Mukim Ampang,19/2/2020,148,Town Houses,Residential,Town House,4,"B-1-001 (P: B-1-1),JALAN RITCHIE, OFF JLN AMPANG H",AMPANG 971 CONDO,656000,2020
+Mukim Ampang,13/8/2020,148,Town Houses,Residential,Town House,6,"B-1-04 (P: B-1-4),JALAN RITCHIE, OFF JLN AMPANG HI",AMPANG 971 CONDO,656000,2020
+Mukim Ampang,5/6/2018,138,Condominium/Apartment,Residential,Condominium/Apartment,4,"H6-01-4,OFF JLN KG PANDAN",MENARA POLO,650000,2018
+Mukim Ampang,12/3/2019,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"A-6-6,JLN PERTIWI",PERTIWI INDAH APARTMENT,650000,2019
+Mukim Ampang,28/3/2017,113,Condominium/Apartment,Residential,Condominium/Apartment,21,"2-01,AMPANG HILIR",TARA KONDOMINIUM,650000,2017
+Mukim Ampang,9/10/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.17,JALAN PRIA 3",TMN MALURI,650000,2020
+Mukim Ampang,25/9/2018,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"B-6-7,JLN PERTIWI",PERTIWI INDAH APARTMENT,630000,2018
+Mukim Ampang,18/4/2017,137,Condominium/Apartment,Residential,Condominium/Apartment,4,"D1-3-2,JLN KG PANDAN",DESA PANDAN,623000,2017
+Mukim Ampang,14/9/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"18,JLN WIRAWATI 9",TMN MALURI,600000,2020
+Mukim Ampang,14/9/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"18,JLN WIRAWATI 9",TMN MALURI,600000,2020
+Mukim Ampang,14/9/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"18,JLN WIRAWATI 9",TMN MALURI,600000,2020
+Mukim Ampang,2/1/2020,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H6-1-1,OF JLN KG PANDAN",MENARA POLO,600000,2020
+Mukim Ampang,17/7/2017,119,Condominium/Apartment,Residential,Condominium/Apartment,17,"B-5-8,JLN PERTIWI",PERTIWI INDAH APARTMENT,600000,2017
+Mukim Ampang,6/6/2018,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"A-6-6,JLN PERTIWI",PERTIWI INDAH APARTMENT,600000,2018
+Mukim Ampang,22/6/2020,228.627,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"19,JALAN WIRAWATI 2",TMN MALURI,580000,2020
+Mukim Ampang,5/12/2019,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"21,JALAN PRIA",TMN MALURI,580000,2019
+Mukim Ampang,17/7/2017,119.38,Condominium/Apartment,Residential,Condominium/Apartment,18,"A-10-5,JLN PERTIWI",PERTIWI INDAH APARTMENT,580000,2017
+Mukim Ampang,22/2/2019,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"B-1-6,JLN PERTIWI",PERTIWI INDAH APARTMENT,580000,2019
+Mukim Ampang,2/8/2018,208.096,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"24,JALAN WIRAWATI 4",TMN MALURI,570000,2018
+Mukim Ampang,23/1/2017,1226,Detached House,Residential,Detached,1,"48,LORONG B1",KG PANDAN,560000,2017
+Mukim Ampang,20/3/2019,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H2-16-04,OF JLN KG PANDAN",MENARA POLO,560000,2019
+Mukim Ampang,28/8/2020,161,Condominium/Apartment,Residential,Condominium/Apartment,19,"H1-16-04,OF JLN KG PANDAN",MENARA POLO,560000,2020
+Mukim Ampang,29/7/2020,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H7-2-6,OF JLN KG PANDAN",MENARA POLO,560000,2020
+Mukim Ampang,24/9/2018,102,Condominium/Apartment,Residential,Condominium/Apartment,18,"C-16-1,JLN PERTIWI",PERTIWI INDAH APARTMENT,560000,2018
+Mukim Ampang,16/2/2017,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO 36,JLN WIRAWATI 9",TMN MALURI,560000,2017
+Mukim Ampang,16/2/2017,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO 36,JLN WIRAWATI 9",TMN MALURI,560000,2017
+Mukim Ampang,23/8/2019,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"B-2-7,JLN PERTIWI",PERTIWI INDAH APARTMENT,555000,2019
+Mukim Ampang,14/9/2018,137.96,Condominium/Apartment,Residential,Condominium/Apartment,21,"H1-12-5,OFF JLN KG PANDAN",MENARA POLO,550000,2018
+Mukim Ampang,4/11/2020,161,Condominium/Apartment,Residential,Condominium/Apartment,21,"H2-15-05,OFF JLN KG PANDAN",MENARA POLO,550000,2020
+Mukim Ampang,8/7/2019,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"A-11-6,NO.70, JLN PERTIWI",PERTIWI INDAH APARTMENT,546000,2019
+Mukim Ampang,8/8/2018,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H1-11-05,OF JLN KG PANDAN",MENARA POLO,540000,2018
+Mukim Ampang,2/4/2018,103,Condominium/Apartment,Residential,Condominium/Apartment,18,"D-13-3,JLN PERTIWI",PERTIWI INDAH APARTMENT,540000,2018
+Mukim Ampang,24/9/2018,143.066,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"22,JLN WIRA 5",TMN MALURI,530000,2018
+Mukim Ampang,9/12/2019,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"B-1-5,JLN PERTIWI",PERTIWI INDAH APARTMENT,530000,2019
+Mukim Ampang,27/11/2018,111,Condominium/Apartment,Residential,Condominium/Apartment,9,"28A-2-3,JLN PAWANG",VILLA PAWANA,530000,2018
+Mukim Ampang,29/5/2020,119,Condominium/Apartment,Residential,Condominium/Apartment,17,"B-5-4,JLN PERTIWI",PERTIWI INDAH APARTMENT,525000,2020
+Mukim Ampang,25/7/2017,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H-6-6,OFF JLN KG PANDAN",MENARA POLO,520000,2017
+Mukim Ampang,7/9/2017,119,Condominium/Apartment,Residential,Condominium/Apartment,17,"A-01-3,JLN PERTIWI",PERTIWI INDAH APARTMENT,520000,2017
+Mukim Ampang,18/5/2018,103,Condominium/Apartment,Residential,Condominium/Apartment,18,"D-9-4,JLN PERTIWI",PERTIWI INDAH APARTMENT,520000,2018
+Mukim Ampang,27/8/2020,143.066,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"NO.35,JLN WIRAWATI 4",TMN MALURI,510000,2020
+Mukim Ampang,29/6/2020,143.006,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"15,JALAN WIRAWATI 3",TMN MALURI,500000,2020
+Mukim Ampang,26/7/2017,109,Condominium/Apartment,Residential,Condominium/Apartment,3,"261-12-3,JLN JEJAKA",CASA RIA,500000,2017
+Mukim Ampang,7/6/2018,84,Condominium/Apartment,Residential,Condominium/Apartment,3,"285-1-2,JLN JEJAKA",CASA RIA,500000,2018
+Mukim Ampang,25/7/2019,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"255-01-06,JLN JEJAKA",CASA RIA,500000,2019
+Mukim Ampang,9/10/2017,137,Condominium/Apartment,Residential,Condominium/Apartment,4,"D2-2-6,JLN KG PANDAN",DESA PANDAN,500000,2017
+Mukim Ampang,28/7/2017,94,Condominium/Apartment,Residential,Condominium/Apartment,18,"C-13-2,JLN PERTIWI",PERTIWI INDAH APARTMENT,500000,2017
+Mukim Ampang,15/9/2020,153.285,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.12,JLN PRIA 1",TMN MALURI,500000,2020
+Mukim Ampang,14/8/2018,143.066,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"NO.19,JALAN WIRA 4",TMN MALURI,500000,2018
+Mukim Ampang,20/2/2020,242,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"NO.7,JLN 2/67A",KAW JLN AMPANG/AMPANG HILIR,500000,2020
+Mukim Ampang,6/3/2017,109.994,Condominium/Apartment,Residential,Condominium/Apartment,22,"12H,JLN AMPANG",GCB COURT,499000,2017
+Mukim Ampang,22/12/2017,93,Condominium/Apartment,Residential,Condominium/Apartment,18,"D-14-2,JLN PERTIWI",PERTIWI INDAH APARTMENT,490000,2017
+Mukim Ampang,1/7/2019,103,Condominium/Apartment,Residential,Condominium/Apartment,18,"C-6-6,JLN PERTIWI",PERTIWI INDAH APARTMENT,490000,2019
+Mukim Ampang,9/11/2018,109,Condominium/Apartment,Residential,Condominium/Apartment,3,"261-19-7,JLN JEJAKA",CASA RIA,480000,2018
+Mukim Ampang,8/4/2021,109,Condominium/Apartment,Residential,Condominium/Apartment,20,"261-5-7,JLN JEJAKA",CASA RIA,480000,2021
+Mukim Ampang,20/11/2017,110,Condominium/Apartment,Residential,Condominium/Apartment,21,"332B,JLN AMPANG",GCB COURT,480000,2017
+Mukim Ampang,18/12/2020,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H2-09-06,OF JLN KG PANDAN",MENARA POLO,480000,2020
+Mukim Ampang,14/4/2017,100,Condominium/Apartment,Residential,Condominium/Apartment,22,"277-2-3,JALAN JEJAKA",CASA RIA,470000,2017
+Mukim Ampang,29/8/2017,143.066,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"NO.15,JALAN WIRAWATI 4",TMN MALURI,470000,2017
+Mukim Ampang,27/8/2020,79,Condominium/Apartment,Residential,Condominium/Apartment,3,"253-0-2,JLN JEJAKA",CASA RIA,460000,2020
+Mukim Ampang,14/10/2020,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"269-1-2,JLN JEJAKA",CASA RIA,460000,2020
+Mukim Ampang,8/3/2019,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H1-13-1,JALAN 2/76E,DESA PANDAN,",MENARA POLO,460000,2019
+Mukim Ampang,20/12/2018,103,Condominium/Apartment,Residential,Condominium/Apartment,18,"D-2-5,JLN PERTIWI",PERTIWI INDAH APARTMENT,460000,2018
+Mukim Ampang,7/5/2018,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H2-07-05,OF JLN KG PANDAN",MENARA POLO,455000,2018
+Mukim Ampang,22/1/2018,88,Flat,Residential,Flat,5,"G5-1-2,JLN KG PANDAN",DESA PANDAN,455000,2018
+Mukim Ampang,16/1/2017,109,Condominium/Apartment,Residential,Condominium/Apartment,22,"B-13A-04A,JLN PRIA",BAM VILLAS,450000,2017
+Mukim Ampang,5/7/2018,109,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-11-5,JLN PRIA",BAM VILLAS,450000,2018
+Mukim Ampang,28/11/2019,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-5-3,JLN PRIA",BAM VILLAS,450000,2019
+Mukim Ampang,28/2/2020,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-18-3,JLN PRIA",BAM VILLAS,450000,2020
+Mukim Ampang,23/6/2017,93,Condominium/Apartment,Residential,Condominium/Apartment,20,"255-0-1,JLN JEJAKA",CASA RIA,450000,2017
+Mukim Ampang,25/3/2019,146.033,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"38,JLN WIRA 2",TMN MALURI,450000,2019
+Mukim Ampang,20/2/2018,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"255-1-7 (CA 14-106),JLN JEJAKA",CASA RIA,450000,2018
+Mukim Ampang,31/12/2018,109,Condominium/Apartment,Residential,Condominium/Apartment,3,"261-2-3,JLN JEJAKA",CASA RIA,450000,2018
+Mukim Ampang,31/12/2018,97.824,Condominium/Apartment,Residential,Condominium/Apartment,3,"271-01-04,JLN JEJAKA",CASA RIA,450000,2018
+Mukim Ampang,25/3/2019,103.68,Condominium/Apartment,Residential,Condominium/Apartment,3,"261-1-1,JLN JEJAKA",CASA RIA,450000,2019
+Mukim Ampang,2/12/2019,103.676,Condominium/Apartment,Residential,Condominium/Apartment,20,"261-17-1,JLN JEJAKA",CASA RIA,450000,2019
+Mukim Ampang,1/12/2019,104,Condominium/Apartment,Residential,Condominium/Apartment,19,"261-7-6,JLN JEJAKA",CASA RIA,450000,2019
+Mukim Ampang,4/5/2020,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"255-1-7 (CA 14-106),JLN JEJAKA",CASA RIA,450000,2020
+Mukim Ampang,2/10/2020,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"269-1-1,JLN JEJAKA",CASA RIA,450000,2020
+Mukim Ampang,1/3/2017,88.07,Condominium/Apartment,Residential,Condominium/Apartment,5,"J5-1-1,JLN KG PANDAN",DESA PANDAN,450000,2017
+Mukim Ampang,5/5/2020,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H7-0-06,OF JLN KG PANDAN",MENARA POLO,450000,2020
+Mukim Ampang,21/9/2020,88,Flat,Residential,Flat,5,"G7-0-3,JLN KG PANDAN",DESA PANDAN,450000,2020
+Mukim Ampang,30/7/2018,89,Flat,Residential,Flat,5,"J2-0-03,JLN KG PANDAN",DESA PANDAN,450000,2018
+Mukim Ampang,19/6/2019,93,Condominium/Apartment,Residential,Condominium/Apartment,18,"C-13-7,JLN PERTIWI",PERTIWI INDAH APARTMENT,445000,2019
+Mukim Ampang,24/3/2021,121,Condominium/Apartment,Residential,Condominium/Apartment,6,"NO. 4-2,,JLN AMPANG",CATALINA VILLA,440000,2021
+Mukim Ampang,10/7/2020,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H1-14-1,JALAN 176E",MENARA POLO,440000,2020
+Mukim Ampang,25/7/2018,88,Flat,Residential,Flat,5,"J1-1-4,JLN KG PANDAN",DESA PANDAN,440000,2018
+Mukim Ampang,18/8/2017,143,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"NO.40,JALAN WIRAWATI 4",TMN MALURI,440000,2017
+Mukim Ampang,29/10/2019,93,Condominium/Apartment,Residential,Condominium/Apartment,20,"257-0-1,JLN JEJAKA",CASA RIA,438000,2019
+Mukim Ampang,21/4/2017,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"255-01-12,JLN JEJAKA",CASA RIA,435000,2017
+Mukim Ampang,2/1/2018,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"257-2-6,JLN JEJAKA",CASA RIA,435000,2018
+Mukim Ampang,10/4/2019,110,Condominium/Apartment,Residential,Condominium/Apartment,21,"332B-3G,JLN AMPANG",GCB COURT,435000,2019
+Mukim Ampang,28/11/2019,88,Flat,Residential,Flat,5,"G1-0-6,JLN KG PANDAN",DESA PANDAN,435000,2019
+Mukim Ampang,13/2/2017,104,Condominium/Apartment,Residential,Condominium/Apartment,20,"261-5-2,JLN JEJAKA",CASA RIA,430000,2017
+Mukim Ampang,22/3/2018,79,Condominium/Apartment,Residential,Condominium/Apartment,3,"253-01,JLN JEJAKA",CASA RIA,430000,2018
+Mukim Ampang,18/6/2018,93,Condominium/Apartment,Residential,Condominium/Apartment,3,"269-0-7,JLN JEJAKA",CASA RIA,430000,2018
+Mukim Ampang,24/10/2019,139,Condominium/Apartment,Residential,Condominium/Apartment,5,"25-2,JLN 5/76B",DESA PANDAN,430000,2019
+Mukim Ampang,12/9/2018,110,Condominium/Apartment,Residential,Condominium/Apartment,22,"332B-9F,JLN AMPANG",GCB COURT,430000,2018
+Mukim Ampang,11/3/2020,93,Condominium/Apartment,Residential,Condominium/Apartment,18,"C-11-1,JLN PERTIWI",PERTIWI INDAH APARTMENT,430000,2020
+Mukim Ampang,23/5/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-19-6,JLN PRIA",BAM VILLAS,420000,2018
+Mukim Ampang,21/11/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-20-6,JLN PRIA",BAM VILLAS,420000,2018
+Mukim Ampang,25/7/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-9-6,JLN PRIA",BAM VILLAS,420000,2018
+Mukim Ampang,30/4/2019,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-17-1,JLN PRIA",BAM VILLAS,420000,2019
+Mukim Ampang,19/8/2019,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-21-4,JLN PRIA",BAM VILLAS,420000,2019
+Mukim Ampang,13/2/2020,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-8-6,JLN PRIA",BAM VILLAS,420000,2020
+Mukim Ampang,23/11/2020,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-18-1,JLN PRIA",BAM VILLAS,420000,2020
+Mukim Ampang,2/1/2020,143.066,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"35,JALAN WIRAWATI 3",TMN MALURI,420000,2020
+Mukim Ampang,19/7/2018,84,Condominium/Apartment,Residential,Condominium/Apartment,3,"CB15-204,JLN JEJAKA",CASA RIA,420000,2018
+Mukim Ampang,16/10/2019,109,Condominium/Apartment,Residential,Condominium/Apartment,19,"261-1-3,JLN JEJAKA",MENARA CASA  RIA,420000,2019
+Mukim Ampang,15/4/2021,93,Condominium/Apartment,Residential,Condominium/Apartment,18,"D-15-2,JLN PERTIWI",PERTIWI INDAH APARTMENT,420000,2021
+Mukim Ampang,2/10/2020,140,Condominium/Apartment,Residential,Condominium/Apartment,7,"20-3-5,JLN WICKHAM",WICKHAM MANOR,417680,2020
+Mukim Ampang,12/10/2020,93,Condominium/Apartment,Residential,Condominium/Apartment,3,"283-0-3,JLN JEJAKA",CASA RIA,415000,2020
+Mukim Ampang,23/5/2019,104,Condominium/Apartment,Residential,Condominium/Apartment,3,"261-6-6,JLN JEJAKA",CASA RIA,410000,2019
+Mukim Ampang,27/3/2018,89,Flat,Residential,Flat,5,"J3-1-8,JLN KG PANDAN",DESA PANDAN,410000,2018
+Mukim Ampang,13/9/2019,84,Condominium/Apartment,Residential,Condominium/Apartment,3,"279-1-1,JLN JEJAKA",CASA RIA,408000,2019
+Mukim Ampang,20/2/2020,88,Flat,Residential,Flat,5,"G5-0-3,JLN KG PANDAN",DESA PANDAN,405000,2020
+Mukim Ampang,14/8/2017,88,Condominium/Apartment,Residential,Condominium/Apartment,5,"G10-0-8,JLN KG PANDAN",DESA PANDAN,403000,2017
+Mukim Ampang,27/8/2018,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-6-4,JLN PRIA",BAM VILLAS,400000,2018
+Mukim Ampang,5/9/2017,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"271-1-1,JLN JEJAKA",CASA RIA,400000,2017
+Mukim Ampang,6/11/2017,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"273-2-2,JLN JEJAKA",CASA RIA,400000,2017
+Mukim Ampang,28/8/2017,93,Condominium/Apartment,Residential,Condominium/Apartment,3,"277-0-3,JLN JEJAKA",CASA RIA,400000,2017
+Mukim Ampang,26/9/2017,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"281-1-1,JLN JEJAKA",CASA RIA,400000,2017
+Mukim Ampang,1/7/2019,79,Condominium/Apartment,Residential,Condominium/Apartment,3,"267-0-4,JLN JEJAKA",CASA RIA,400000,2019
+Mukim Ampang,5/7/2019,93,Condominium/Apartment,Residential,Condominium/Apartment,3,"271-0-5,JLN JEJAKA",CASA RIA,400000,2019
+Mukim Ampang,7/11/2020,109,Condominium/Apartment,Residential,Condominium/Apartment,20,"261-10-8,JLN JEJAKA",CASA RIA,400000,2020
+Mukim Ampang,16/5/2017,86,Flat,Residential,Flat,3,"47-1,JLN PERKASA 9",MANOR APARTMENT,400000,2017
+Mukim Ampang,26/8/2019,143.066,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"57,JALAN WIRA 1",TMN MALURI,400000,2019
+Mukim Ampang,8/5/2017,285.76,Terraced House,Residential,2 - 2 1/2 Storey Terraced,2,"62,JLN WIRAWATI 9",TMN MALURI,400000,2017
+Mukim Ampang,2/12/2019,138,Condominium/Apartment,Residential,Condominium/Apartment,19,"H2-15-1,OF JLN KG PANDAN",MENARA POLO,400000,2019
+Mukim Ampang,22/5/2018,88,Flat,Residential,Flat,5,"C2-3-9,JLN KG PANDAN",DESA PANDAN,400000,2018
+Mukim Ampang,17/7/2019,88,Flat,Residential,Flat,5,"G4-0-1,JLN KG PANDAN",DESA PANDAN,400000,2019
+Mukim Ampang,5/11/2019,119,Condominium/Apartment,Residential,Condominium/Apartment,18,"A-9-2,JLN PERTIWI",PERTIWI INDAH APARTMENT,400000,2019
+Mukim Ampang,20/10/2020,103,Condominium/Apartment,Residential,Condominium/Apartment,18,"D-15-5,JLN PERTIWI",PERTIWI INDAH APARTMENT,400000,2020
+Mukim Ampang,10/11/2020,89,Flat,Residential,Flat,5,"J5-2-6,JLN KG PANDAN",DESA PANDAN,400000,2020
+Mukim Ampang,6/9/2018,89,Flat,Residential,Flat,5,"J6-0-8,JLN KG PANDAN",DESA PANDAN,400000,2018
+Mukim Ampang,6/7/2017,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-13-4,JLN PRIA",BAM VILLAS,395000,2017
+Mukim Ampang,18/4/2019,109,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-4-02,JLN PRIA",BAM VILLAS,395000,2019
+Mukim Ampang,10/3/2017,89,Condominium/Apartment,Residential,Condominium/Apartment,5,"J4-0-3,JALAN KAMPONG PANDAN",DESA PANDAN,395000,2017
+Mukim Ampang,31/12/2020,88,Flat,Residential,Flat,5,"G4-0-2,JLN KG PANDAN",DESA PANDAN,395000,2020
+Mukim Ampang,31/12/2020,88,Flat,Residential,Flat,5,"G4-0-2,JLN KG PANDAN",DESA PANDAN,395000,2020
+Mukim Ampang,13/8/2018,109,Condominium/Apartment,Residential,Condominium/Apartment,3,"261-2-8,JLN JEJAKA",CASA RIA,390000,2018
+Mukim Ampang,11/10/2019,79,Condominium/Apartment,Residential,Condominium/Apartment,3,"253-0-5(CB15-002),JLN JEJAKA",CASA RIA,390000,2019
+Mukim Ampang,7/1/2017,88,Flat,Residential,Flat,5,"G6-1-2,JLN KG PANDAN",DESA PANDAN,390000,2017
+Mukim Ampang,12/11/2020,94,Condominium/Apartment,Residential,Condominium/Apartment,18,"D-9-7,JLN PERTIWI",PERTIWI INDAH APARTMENT,390000,2020
+Mukim Ampang,17/12/2018,78,Condominium/Apartment,Residential,Condominium/Apartment,23,"A-00-2,JALAN 1/76E",MUTIARA UPPER EAST CONDO,386000,2018
+Mukim Ampang,10/1/2018,109,Condominium/Apartment,Residential,Condominium/Apartment,20,"261-16-8,JLN JEJAKA",CASA RIA,385000,2018
+Mukim Ampang,18/1/2018,89,Flat,Residential,Flat,5,"J3-1-7,JLN KG PANDAN",DESA PANDAN,385000,2018
+Mukim Ampang,16/6/2020,89,Flat,Residential,Flat,5,"J4-1-2,JLN KG PANDAN",DESA PANDAN,385000,2020
+Mukim Ampang,20/11/2019,93,Flat,Residential,Flat,3,"23-3,JLN PERKASA 9",MANOR APARTMENT,380000,2019
+Mukim Ampang,22/1/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-12-1,JLN PRIA",BAM VILLAS,380000,2018
+Mukim Ampang,26/8/2020,109,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-17-5,JLN PRIA",BAM VILLAS,380000,2020
+Mukim Ampang,8/6/2020,109,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-8-2,JLN 1/75C",BAM VILLAS,380000,2020
+Mukim Ampang,24/7/2019,84,Condominium/Apartment,Residential,Condominium/Apartment,3,"253-1-1,JALAN JEJAKA",CASA RIA,380000,2019
+Mukim Ampang,8/1/2020,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"283-2-1,JLN JEJAKA",CASA RIA,380000,2020
+Mukim Ampang,15/11/2019,86,Flat,Residential,Flat,4,"7-3,JLN PERKASA 9",MANOR APARTMENT,380000,2019
+Mukim Ampang,26/11/2020,86,Flat,Residential,Flat,3,"85-1 (M1-1-3),JLN PERKASA 9",MANOR APARTMENT,380000,2020
+Mukim Ampang,9/11/2017,88,Flat,Residential,Flat,5,"G1-1-8,JLN KG PANDAN",DESA PANDAN,380000,2017
+Mukim Ampang,12/6/2020,88,Flat,Residential,Flat,5,"G7-3-8 (BAIDURI APT),JLN 5/7D DESA PANDAN",DESA PANDAN,380000,2020
+Mukim Ampang,9/1/2018,89,Flat,Residential,Flat,5,"J5-0-7, DELIMA,JLN KG PANDAN",DESA PANDAN,380000,2018
+Mukim Ampang,16/12/2019,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"269-2-6,JLN JEJAKA",CASA RIA,375000,2019
+Mukim Ampang,7/6/2018,89,Flat,Residential,Flat,5,"J7-01-05,JLN KG PANDAN",DESA PANDAN,375000,2018
+Mukim Ampang,12/9/2017,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-11-4,JLN PRIA",BAM VILLAS,370000,2017
+Mukim Ampang,17/7/2017,109,Condominium/Apartment,Residential,Condominium/Apartment,22,"B-17-2,JLN PRIA",BAM VILLAS,370000,2017
+Mukim Ampang,16/8/2018,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-15-4,JLN PRIA",BAM VILLAS,370000,2018
+Mukim Ampang,28/3/2019,109,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-18-2,JLN PRIA",BAM VILLAS,370000,2019
+Mukim Ampang,11/6/2020,88,Flat,Residential,Flat,5,"G5-3-6,JLN KG PANDAN",DESA PANDAN,370000,2020
+Mukim Ampang,16/7/2018,88,Flat,Residential,Flat,5,"G5-4-3, BAIDURI,JLN KG PANDAN",DESA PANDAN,370000,2018
+Mukim Ampang,27/10/2020,88,Flat,Residential,Flat,5,"G8-2-2,JLN KG PANDAN",DESA PANDAN,370000,2020
+Mukim Ampang,8/8/2017,89,Flat,Residential,Flat,5,"J2-2-11,JLN KG PANDAN",DESA PANDAN,370000,2017
+Mukim Ampang,13/2/2018,89,Low-Cost Flat,Residential,Low-Cost Flat,5,"J3-2-6,JLN KG PANDAN",DESA PANDAN,370000,2018
+Mukim Ampang,10/11/2017,89,Flat,Residential,Flat,5,"J4-1-2,JLN KG PANDAN",DESA PANDAN,370000,2017
+Mukim Ampang,25/9/2017,88,Flat,Residential,Flat,5,"J5-2-24,JLN KG PANDAN",DESA PANDAN,368000,2017
+Mukim Ampang,12/7/2018,89,Flat,Residential,Flat,5,"J5-2-8,JLN KG PANDAN",DESA PANDAN,368000,2018
+Mukim Ampang,21/10/2020,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"M11-3-222,JLN JEJAKA",CASA RIA,365000,2020
+Mukim Ampang,16/12/2019,89,Flat,Residential,Flat,5,"J3-0-9,JLN KG PANDAN",DESA PANDAN,365000,2019
+Mukim Ampang,8/2/2018,89,Flat,Residential,Flat,5,"J6-1-3,JLN KG PANDAN",DESA PANDAN,365000,2018
+Mukim Ampang,21/8/2017,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-15-1,JLN PRIA",BAM VILLAS,360000,2017
+Mukim Ampang,7/4/2017,90.59,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-9-6,(P:B-10-5C),JLN PRIA",BAM VILLAS,360000,2017
+Mukim Ampang,7/4/2017,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-9-6,JLN PRIA",BAM VILLAS,360000,2017
+Mukim Ampang,15/10/2018,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-16-3,JLN PRIA",BAM VILLAS,360000,2018
+Mukim Ampang,10/6/2019,88,Flat,Residential,Flat,5,"C1-1-3,JLN KG PANDAN",DESA PANDAN,360000,2019
+Mukim Ampang,9/9/2020,85.83,Flat,Residential,Flat,5,"G8-4-1,JLN KG PANDAN",DESA PANDAN,360000,2020
+Mukim Ampang,6/10/2017,88,Flat,Residential,Flat,5,"G8-4-9,JLN KG PANDAN",DESA PANDAN,360000,2017
+Mukim Ampang,28/2/2019,102.004,Condominium/Apartment,Residential,Condominium/Apartment,18,"D-2-6,JLN PERTIWI",PERTIWI INDAH APARTMENT,360000,2019
+Mukim Ampang,27/5/2019,88.998,Flat,Residential,Flat,5,"J7-0-1,JLN KG PANDAN",DESA PANDAN,355500,2019
+Mukim Ampang,8/5/2018,88,Flat,Residential,Flat,5,"C1-2-9,JLN KG PANDAN",DESA PANDAN,355000,2018
+Mukim Ampang,10/2/2020,88,Flat,Residential,Flat,5,"G8-1-14,JALAN KAMPUNG PANDAN",DESA PANDAN,355000,2020
+Mukim Ampang,13/8/2018,86,Flat,Residential,Flat,3,"17-3,JLN PERKASA 9",MANOR APARTMENT,350000,2018
+Mukim Ampang,25/8/2017,85,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-2-1,JLN PRIA",BAM VILLAS,350000,2017
+Mukim Ampang,3/10/2017,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-9-1,JLN PRIA",BAM VILLAS,350000,2017
+Mukim Ampang,26/12/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-5-1,JLN PRIA",BAM VILLAS,350000,2018
+Mukim Ampang,22/7/2019,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-6-3,JLN PRIA",BAM VILLAS,350000,2019
+Mukim Ampang,4/9/2019,90.59,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-15-6,JLN PRIA",BAM VILLAS,350000,2019
+Mukim Ampang,3/9/2018,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"259-1-9,JLN JEJAKA",CASA RIA,350000,2018
+Mukim Ampang,16/3/2020,100,Condominium/Apartment,Residential,Condominium/Apartment,20,"269-2-5,JLN JEJAKA",CASA RIA,350000,2020
+Mukim Ampang,15/3/2021,79,Condominium/Apartment,Residential,Condominium/Apartment,3,"279-0-1,JALAN JEJAKA",CASA RIA,350000,2021
+Mukim Ampang,8/6/2017,88,Condominium/Apartment,Residential,Condominium/Apartment,5,"G6-0-1,JLN KG PANDAN",DESA PANDAN,350000,2017
+Mukim Ampang,17/3/2017,88.069,Condominium/Apartment,Residential,Condominium/Apartment,5,"J6-1-5,JLN KG PANDAN",DESA PANDAN,350000,2017
+Mukim Ampang,4/9/2020,88,Flat,Residential,Flat,5,"C2-4-6,JLN KAMPUNG PANDAN",DESA PANDAN,350000,2020
+Mukim Ampang,26/8/2019,85.82,Flat,Residential,Flat,5,"G10-2-10,JALAN 5/76D",DESA PANDAN,350000,2019
+Mukim Ampang,6/9/2018,88,Flat,Residential,Flat,5,"G2-1-6,OFF KG PANDAN",DESA PANDAN,350000,2018
+Mukim Ampang,22/4/2019,88,Flat,Residential,Flat,5,"G5-2-3,JLN KG PANDAN",DESA PANDAN,350000,2019
+Mukim Ampang,25/9/2020,88,Flat,Residential,Flat,5,"G5-2-4,JLN KG PANDAN",DESA PANDAN,350000,2020
+Mukim Ampang,10/4/2017,85.84,Flat,Residential,Flat,5,"G6-4-8,JLN KG PANDAN",DESA PANDAN,350000,2017
+Mukim Ampang,29/9/2020,88,Flat,Residential,Flat,5,"G7-4-4,JLN KG PANDAN",DESA PANDAN,350000,2020
+Mukim Ampang,1/2/2019,103,Condominium/Apartment,Residential,Condominium/Apartment,18,"C-16-1,JLN PERTIWI",PERTIWI INDAH APARTMENT,350000,2019
+Mukim Ampang,10/10/2019,89,Flat,Residential,Flat,5,"J1-1-3,JLN KG PANDAN",DESA PANDAN,350000,2019
+Mukim Ampang,7/1/2021,89,Flat,Residential,Flat,5,"J4-4-9,JLN 4/76E",DESA PANDAN,350000,2021
+Mukim Ampang,5/1/2018,143.066,Terraced House,Residential,1 - 1 1/2 Storey Terraced,1,"NO.30,JALAN WIRA 5",TMN MALURI,350000,2018
+Mukim Ampang,17/12/2018,84,Condominium/Apartment,Residential,Condominium/Apartment,3,"285-1-4,JLN JEJAKA",CASA RIA,345000,2018
+Mukim Ampang,25/8/2017,87,Flat,Residential,Flat,4,"15-3,JLN PERKASA 9",MANOR APARTMENT,340000,2017
+Mukim Ampang,12/1/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"A-7-6,JLN PRIA",BAM VILLAS,340000,2018
+Mukim Ampang,8/5/2017,88,Condominium/Apartment,Residential,Condominium/Apartment,5,"G8-4-4,JLN KG PANDAN",DESA PANDAN,340000,2017
+Mukim Ampang,15/7/2019,86,Flat,Residential,Flat,3,"87-3 (M1-3-2),JLN PERKASA 9",MANOR APARTMENT,340000,2019
+Mukim Ampang,15/2/2018,88,Condominium/Apartment,Residential,Condominium/Apartment,5,"G7-2-08,JLN KG PANDAN",DESA PANDAN,340000,2018
+Mukim Ampang,9/11/2020,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-14-3,JLN PRIA",BAM VILLAS,335000,2020
+Mukim Ampang,23/5/2017,88,Condominium/Apartment,Residential,Condominium/Apartment,5,"G6-3-8,JLN KG PANDAN",DESA PANDAN,335000,2017
+Mukim Ampang,13/9/2017,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-19-3(PCL B-20-2),JLN PRIA",BAM VILLAS,330000,2017
+Mukim Ampang,21/3/2018,358,Detached House,Residential,Detached,1,"23 & 23A,LRG 1",KG PANDAN,330000,2018
+Mukim Ampang,8/4/2019,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-12-4,JLN PRIA",BAM VILLAS,330000,2019
+Mukim Ampang,28/7/2020,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-4-3,JLN PRIA",BAM VILLAS,330000,2020
+Mukim Ampang,25/10/2019,84,Condominium/Apartment,Residential,Condominium/Apartment,3,"279-2-6,JLN JEJAKA",CASA RIA,330000,2019
+Mukim Ampang,23/9/2020,88,Flat,Residential,Flat,5,"G8-1-14,JALAN KAMPUNG PANDAN",DESA PANDAN,330000,2020
+Mukim Ampang,17/2/2020,89,Flat,Residential,Flat,5,"J4-1-3,JLN KG PANDAN",DESA PANDAN,330000,2020
+Mukim Ampang,23/2/2021,88,Flat,Residential,Flat,5,"G1-3-7,JALAN 5/76D",DESA PANDAN,325000,2021
+Mukim Ampang,23/2/2021,88,Flat,Residential,Flat,5,"G1-3-7,JALAN 5/76D",DESA PANDAN,325000,2021
+Mukim Ampang,27/2/2019,88,Flat,Residential,Flat,5,"G10-4-10,JLN KG PANDAN",DESA PANDAN,325000,2019
+Mukim Ampang,14/12/2017,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-5-1,JLN PRIA",BAM VILLAS,320000,2017
+Mukim Ampang,12/3/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-12-1,JLN PRIA",BAM VILLAS,320000,2018
+Mukim Ampang,16/8/2019,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-8-4,JLN PRIA",BAM VILLAS,320000,2019
+Mukim Ampang,8/1/2021,86,Flat,Residential,Flat,3,"63-3,JLN PERKASA 9",MANOR APARTMENT,320000,2021
+Mukim Ampang,11/12/2018,88,Flat,Residential,Flat,5,"C1-3-2,JLN KG PANDAN",DESA PANDAN,320000,2018
+Mukim Ampang,4/9/2018,88,Flat,Residential,Flat,5,"C2-3-5,JLN KAMPUNG PANDAN",DESA PANDAN,320000,2018
+Mukim Ampang,7/11/2017,89,Flat,Residential,Flat,5,"J4-4-3,JLN KG PANDAN",DESA PANDAN,320000,2017
+Mukim Ampang,7/7/2020,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-1A-3,JLN PRIA",BAM VILLAS,318000,2020
+Mukim Ampang,1/7/2019,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-14-3,JLN PRIA",BAM VILLAS,315000,2019
+Mukim Ampang,13/3/2020,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-2-3,JLN PRIA",BAM VILLAS,315000,2020
+Mukim Ampang,22/2/2021,67,Flat,Residential,Flat,5,"F6-1-4,JLN KG PANDAN",DESA PANDAN,310000,2021
+Mukim Ampang,3/8/2018,88,Flat,Residential,Flat,5,"G9-4-05,JLN KG PANDAN",DESA PANDAN,308000,2018
+Mukim Ampang,25/2/2020,88,Flat,Residential,Flat,5,"G1-3-04,JLN KG PANDAN",DESA PANDAN,305000,2020
+Mukim Ampang,4/12/2017,86,Flat,Residential,Flat,3,"89-1,JLN PERKASA 9",MANOR APARTMENT,300000,2017
+Mukim Ampang,9/9/2020,67,Flat,Residential,Flat,5,"B6-0-5,JLN KG PANDAN",DESA PANDAN,300000,2020
+Mukim Ampang,14/2/2019,83.61,Condominium/Apartment,Residential,Condominium/Apartment,28,"B-25-10,JALAN KAMPUNG PANDAN",PANDAN MAS RESIDENCE,300000,2019
+Mukim Ampang,8/10/2018,67,Flat,Residential,Flat,5,"F7-0-8,JLN KG PANDAN",DESA PANDAN,300000,2018
+Mukim Ampang,18/7/2019,89,Flat,Residential,Flat,5,"J2-3-11,JLN KG PANDAN",DESA PANDAN,300000,2019
+Mukim Ampang,2/5/2018,89,Flat,Residential,Flat,5,"J3-02-10,JLN KG PANDAN",DESA PANDAN,300000,2018
+Mukim Ampang,1/8/2017,89,Flat,Residential,Flat,5,"J5-4-2,JLN KG PANDAN",DESA PANDAN,300000,2017
+Mukim Ampang,26/2/2020,418.06,Vacant Residential Plot,Residential,Vacant Plot,,"PT 89 (17),JALAN TAMAN SETIAWANGSA UTAMA",GONGGANG ESTATE,300000,2020
+Mukim Ampang,4/6/2019,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-4-6,JLN PRIA",BAM VILLAS,295000,2019
+Mukim Ampang,2/10/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-9-6,JLN PRIA",BAM VILLAS,290000,2018
+Mukim Ampang,1/10/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-16-6,JLN PRIA",BAM VILLAS,290000,2018
+Mukim Ampang,2/11/2018,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-7-6,JLN PRIA",BAM VILLAS,290000,2018
+Mukim Ampang,28/3/2019,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42B-11-1,JLN PRIA",BAM VILLAS,290000,2019
+Mukim Ampang,27/12/2018,88,Flat,Residential,Flat,5,"G2-1-1,JLN KG PANDAN",DESA PANDAN,290000,2018
+Mukim Ampang,18/2/2020,88,Flat,Residential,Flat,5,"G6-2-6,JLN KAMPONG PANDAN",DESA PANDAN,290000,2020
+Mukim Ampang,20/11/2017,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"A-19-6C,JLN PRIA",BAM VILLAS,280000,2017
+Mukim Ampang,27/10/2020,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-5-1,JLN PRIA",BAM VILLAS,280000,2020
+Mukim Ampang,18/4/2019,139,Condominium/Apartment,Residential,Condominium/Apartment,20,"M1-2-2,JALAN 5/76B",DESA PANDAN,280000,2019
+Mukim Ampang,18/4/2019,139,Condominium/Apartment,Residential,Condominium/Apartment,2,"M1-2-2,JALAN 5/76B",DESA PANDAN,280000,2019
+Mukim Ampang,5/8/2020,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"A2-2-7,JLN KG PANDAN",DESA PANDAN,280000,2020
+Mukim Ampang,29/5/2019,66.516,Low-Cost Flat,Residential,Low-Cost Flat,5,"A9-01-02,JLN KG PANDAN",DESA PANDAN,280000,2019
+Mukim Ampang,26/10/2020,67,Flat,Residential,Flat,5,"B10-3-6,JLN KG PANDAN",DESA PANDAN,280000,2020
+Mukim Ampang,14/11/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B6-1-07,JALAN 2/76A",DESA PANDAN,280000,2019
+Mukim Ampang,20/10/2020,67,Flat,Residential,Flat,5,"F1-2-6,JLN KAMPUNG PANDAN",DESA PANDAN,280000,2020
+Mukim Ampang,13/6/2019,67,Flat,Residential,Flat,5,"F6-3-8,JLN KG PANDAN",DESA PANDAN,280000,2019
+Mukim Ampang,26/11/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"F7-2-1,JLN KG PANDAN",DESA PANDAN,280000,2019
+Mukim Ampang,16/10/2018,88,Flat,Residential,Flat,5,"G3-4-5,JLN KG PANDAN",DESA PANDAN,280000,2018
+Mukim Ampang,30/11/2018,88,Flat,Residential,Flat,5,"G4-4-2,JLN KG PANDAN",DESA PANDAN,280000,2018
+Mukim Ampang,5/4/2018,88,Flat,Residential,Flat,5,"G8-1-12,JLN KG PANDAN",DESA PANDAN,280000,2018
+Mukim Ampang,3/8/2020,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-10-6,JLN PRIA",BAM VILLAS,275000,2020
+Mukim Ampang,18/3/2019,87,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-11-1,JLN PRIA",BAM VILLAS,270000,2019
+Mukim Ampang,24/12/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"E16-2-8,JLN KG PANDAN",DESA PANDAN,270000,2019
+Mukim Ampang,18/5/2017,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"F5-0-2,JLN KG PANDAN",DESA PANDAN,270000,2017
+Mukim Ampang,31/12/2018,88,Condominium/Apartment,Residential,Condominium/Apartment,5,"G6-0-06,JLN KG PANDAN",DESA PANDAN,260000,2018
+Mukim Ampang,8/12/2017,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"A11-1-8,OFF KG PANDAN",DESA PANDAN,260000,2017
+Mukim Ampang,31/12/2019,67,Flat,Residential,Flat,5,"A12-2-4,JALAN KAMPUNG PANDAN",DESA PANDAN,260000,2019
+Mukim Ampang,20/11/2020,67,Flat,Residential,Flat,5,"A6-1-2,JLN KG PANDAN",DESA PANDAN,260000,2020
+Mukim Ampang,22/1/2018,67,Flat,Residential,Flat,5,"E4-1-6,JLN KG PANDAN",DESA PANDAN,260000,2018
+Mukim Ampang,19/3/2019,67,Flat,Residential,Flat,5,"E9-3-7,JLN KG PANDAN",DESA PANDAN,260000,2019
+Mukim Ampang,31/7/2019,67,Flat,Residential,Flat,5,"F-1-1,JLN KAMPONG PANDAN",DESA PANDAN,260000,2019
+Mukim Ampang,14/6/2019,67,Flat,Residential,Flat,5,"F3-1-4,JLN KG PANDAN",DESA PANDAN,255000,2019
+Mukim Ampang,3/1/2019,67,Flat,Residential,Flat,5,"F7-3-7,JLN KG PANDAN",DESA PANDAN,255000,2019
+Mukim Ampang,26/2/2018,89,Flat,Residential,Flat,5,"J2-4-1,JLN KG PANDAN",DESA PANDAN,252000,2018
+Mukim Ampang,8/5/2017,90.57,Condominium/Apartment,Residential,Condominium/Apartment,22,"42C-14-1(P : C-15-6),JLN PRIA",BAM VILLAS,250000,2017
+Mukim Ampang,27/11/2018,100,Condominium/Apartment,Residential,Condominium/Apartment,3,"269-2-8,JLN JEJAKA",CASA RIA,250000,2018
+Mukim Ampang,19/7/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"A4-2-3,JALAN KAMPUNG PANDAN",DESA PANDAN,250000,2019
+Mukim Ampang,25/6/2020,67,Flat,Residential,Flat,5,"B13-2-8,JLN KG PANDAN",DESA PANDAN,250000,2020
+Mukim Ampang,19/8/2019,67,Flat,Residential,Flat,5,"B3-2-6,JLN KG PANDAN",DESA PANDAN,250000,2019
+Mukim Ampang,1/6/2020,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B4-2-6,JLN KG PANDAN",DESA PANDAN,250000,2020
+Mukim Ampang,2/11/2018,67,Flat,Residential,Flat,5,"B5-0-6,JLN KG PANDAN",DESA PANDAN,250000,2018
+Mukim Ampang,29/5/2017,88,Flat,Residential,Flat,5,"C1-0-2,JLN KG PANDAN",DESA PANDAN,250000,2017
+Mukim Ampang,5/2/2018,67,Flat,Residential,Flat,5,"E13-3-3,JLN KG PANDAN",DESA PANDAN,250000,2018
+Mukim Ampang,19/5/2017,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"E16-1-6,JLN KG PANDAN",DESA PANDAN,250000,2017
+Mukim Ampang,23/10/2018,67,Flat,Residential,Flat,5,"F3-3-6,JLN KG PANDAN",DESA PANDAN,250000,2018
+Mukim Ampang,10/3/2020,67,Flat,Residential,Flat,5,"F6-2-2, DESA PANDAN,JLN KG PANDAN",DESA PANDAN,250000,2020
+Mukim Ampang,4/3/2021,88,Flat,Residential,Flat,5,"G7-4-8,JALAN 5/76D",DESA PANDAN,250000,2021
+Mukim Ampang,16/12/2019,67,Flat,Residential,Flat,5,"F5-4-2,JLN KG PANDAN",DESA PANDAN,245000,2019
+Mukim Ampang,10/8/2020,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-2-3,JLN PRIA",BAM VILLAS,240000,2020
+Mukim Ampang,22/10/2018,67,Flat,Residential,Flat,5,"B6-0-01,JLN KG PANDAN",DESA PANDAN,240000,2018
+Mukim Ampang,11/10/2018,66.52,Flat,Residential,Flat,5,"F2-3-6,JALAN KAMPUNG PANDAN",DESA PANDAN,240000,2018
+Mukim Ampang,20/7/2017,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"F4-3-3,JLN KG PANDAN",DESA PANDAN,240000,2017
+Mukim Ampang,15/2/2017,88,Flat,Residential,Flat,5,"G2-4-15,JLN KG PANDAN",DESA PANDAN,240000,2017
+Mukim Ampang,16/10/2017,89,Flat,Residential,Flat,5,"J4-4-10,JLN KG PANDAN",DESA PANDAN,240000,2017
+Mukim Ampang,21/5/2019,69,Low-Cost Flat,Residential,Low-Cost Flat,5,"E11-0-2,JLN KG PANDAN",DESA PANDAN,235000,2019
+Mukim Ampang,2/12/2020,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B7-2-5,JLN KG PANDAN",DESA PANDAN,233000,2020
+Mukim Ampang,2/12/2020,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B7-2-5,JLN KG PANDAN",DESA PANDAN,233000,2020
+Mukim Ampang,28/6/2018,67,Flat,Residential,Flat,5,"A12-4-5,JLN KG PANDAN",DESA PANDAN,230000,2018
+Mukim Ampang,9/3/2020,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"A2-3-4,JLN KG PANDAN",DESA PANDAN,230000,2020
+Mukim Ampang,16/10/2018,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"A3-4-1,JLN KG PANDAN",DESA PANDAN,230000,2018
+Mukim Ampang,18/8/2020,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B11-2-3,JLN KG PANDAN",DESA PANDAN,230000,2020
+Mukim Ampang,30/10/2018,66.516,Flat,Residential,Flat,5,"B2-1-5,JLN KG PANDAN",DESA PANDAN,230000,2018
+Mukim Ampang,23/10/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B3-2-4,JLN 3/76A",DESA PANDAN,230000,2019
+Mukim Ampang,15/8/2018,66.52,Low-Cost Flat,Residential,Low-Cost Flat,5,"B5-3-7,DESA PANDAN",DESA PANDAN,230000,2018
+Mukim Ampang,19/5/2020,67,Flat,Residential,Flat,5,"E14-1-2,JLN KG PANDAN",DESA PANDAN,230000,2020
+Mukim Ampang,21/5/2019,67,Flat,Residential,Flat,5,"E14-2-3,JLN KG PANDAN",DESA PANDAN,230000,2019
+Mukim Ampang,15/8/2018,67,Flat,Residential,Flat,5,"E15-0-3,JLN KG PANDAN",DESA PANDAN,230000,2018
+Mukim Ampang,21/3/2019,67,Flat,Residential,Flat,5,"E2-0-3,JLN KG PANDAN",DESA PANDAN,230000,2019
+Mukim Ampang,21/7/2017,67,Flat,Residential,Flat,5,"F5-3-4,JLN KG PANDAN",DESA PANDAN,230000,2017
+Mukim Ampang,13/3/2018,89,Flat,Residential,Flat,5,"J2-3-11,JLN KG PANDAN",DESA PANDAN,230000,2018
+Mukim Ampang,28/3/2019,67,Flat,Residential,Flat,5,"B1-2-3,JALAN KAMPUNG PANDAN",DESA PANDAN,225000,2019
+Mukim Ampang,27/6/2018,67,Flat,Residential,Flat,5,"E9-2-7,JLN KG PANDAN",DESA PANDAN,225000,2018
+Mukim Ampang,24/8/2018,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B5-2-2,DESA PANDAN",DESA PANDAN,220000,2018
+Mukim Ampang,6/3/2018,67,Flat,Residential,Flat,5,"E6-1-2,JLN KG PANDAN",DESA PANDAN,220000,2018
+Mukim Ampang,21/7/2020,67,Flat,Residential,Flat,5,"E6-4-8,JLN KG PANDAN",DESA PANDAN,220000,2020
+Mukim Ampang,21/8/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B8-4-4,JLN KG PANDAN",DESA PANDAN,218000,2019
+Mukim Ampang,13/11/2018,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B13-3-2,JLN KG PANDAN",DESA PANDAN,215000,2018
+Mukim Ampang,27/3/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B6-3-6,JLN KG PANDAN",DESA PANDAN,215000,2019
+Mukim Ampang,26/8/2019,67,Flat,Residential,Flat,5,"E14-0-1,JLN KG PANDAN",DESA PANDAN,215000,2019
+Mukim Ampang,12/2/2018,99,Condominium/Apartment,Residential,Condominium/Apartment,22,"42A-3-3,JLN PRIA",BAM VILLAS,210000,2018
+Mukim Ampang,19/8/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"E3-2,JLN KG PANDAN",DESA PANDAN,210000,2019
+Mukim Ampang,15/8/2018,67,Flat,Residential,Flat,5,"A9-3-3,JLN KG PANDAN",DESA PANDAN,205000,2018
+Mukim Ampang,12/10/2017,67,Flat,Residential,Flat,4,"F6-4-3,KG PANDAN",DESA PANDAN,205000,2017
+Mukim Ampang,29/6/2019,93,Condominium/Apartment,Residential,Condominium/Apartment,3,"255-0-11,JLN JEJAKA",CASA RIA,200000,2019
+Mukim Ampang,11/5/2017,66.516,Low-Cost Flat,Residential,Low-Cost Flat,5,"A11-4-6,JALAN KAMPUNG PANDAN",DESA PANDAN,200000,2017
+Mukim Ampang,25/11/2020,67,Flat,Residential,Flat,5,"A12-3-7,JALAN KAMPUNG PANDAN",DESA PANDAN,200000,2020
+Mukim Ampang,26/11/2020,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"A2-4-4,JLN KG PANDAN",DESA PANDAN,200000,2020
+Mukim Ampang,17/8/2020,52,Low-Cost Flat,Residential,Low-Cost Flat,4,"A2A (25-A),JLN PERKASA 1",TMN MALURI,200000,2020
+Mukim Ampang,2/10/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"A3-3-4,JLN KG PANDAN",DESA PANDAN,200000,2019
+Mukim Ampang,4/12/2018,67,Flat,Residential,Flat,5,"B10-01-01,JALAN KAMPUNG PANDAN",DESA PANDAN,200000,2018
+Mukim Ampang,18/9/2017,67,Flat,Residential,Flat,5,"B4-3-1,JALAN KAMPUNG PANDAN",DESA PANDAN,200000,2017
+Mukim Ampang,6/7/2017,67,Flat,Residential,Flat,5,"B7-4-2,JLN KG PANDAN",DESA PANDAN,200000,2017
+Mukim Ampang,15/12/2017,88,Flat,Residential,Flat,5,"C-1-3-11,JLN KG PANDAN",DESA PANDAN,200000,2017
+Mukim Ampang,30/12/2020,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"E12-2-3,JLN KG PANDAN",DESA PANDAN,200000,2020
+Mukim Ampang,14/4/2017,66.516,Flat,Residential,Flat,5,"E13-0-2,JLN KG PANDAN",DESA PANDAN,200000,2017
+Mukim Ampang,18/3/2019,67,Flat,Residential,Flat,5,"E4-2-2,JLN KG PANDAN",DESA PANDAN,200000,2019
+Mukim Ampang,22/1/2019,67,Flat,Residential,Flat,5,"F5-4-5,JLN KG PANDAN",DESA PANDAN,200000,2019
+Mukim Ampang,4/3/2019,67,Flat,Residential,Flat,5,"E2-4-2,JALAN KAMPUNG PANDAN",DESA PANDAN,198000,2019
+Mukim Ampang,14/2/2017,67,Flat,Residential,Flat,5,"F6-2-7,JLN KG PANDAN",DESA PANDAN,195000,2017
+Mukim Ampang,17/6/2019,49,Low-Cost Flat,Residential,Low-Cost Flat,5,"8-1,JLN PERKASA 1",TMN MALURI,190000,2019
+Mukim Ampang,22/7/2019,67,Flat,Residential,Flat,5,"A3-4-7,JLN KG PANDAN",DESA PANDAN,190000,2019
+Mukim Ampang,23/1/2018,67,Flat,Residential,Flat,5,"B8-1-3,JALAN KAMPUNG PANDAN",DESA PANDAN,190000,2018
+Mukim Ampang,29/8/2017,67,Flat,Residential,Flat,5,"B8-3-1,JLN KG PANDAN",DESA PANDAN,190000,2017
+Mukim Ampang,15/11/2017,67,Flat,Residential,Flat,5,"E16-2-4,JLN KG PANDAN",DESA PANDAN,190000,2017
+Mukim Ampang,15/12/2020,67,Flat,Residential,Flat,5,"A1-2-8,JLN KG PANDAN",DESA PANDAN,180000,2020
+Mukim Ampang,22/3/2018,68.19,Flat,Residential,Flat,5,"A4-0-1,JLN KG PANDAN",DESA PANDAN,180000,2018
+Mukim Ampang,5/2/2018,67,Flat,Residential,Flat,5,"A4-2-2,JALAN KAMPUNG PANDAN",DESA PANDAN,180000,2018
+Mukim Ampang,30/9/2019,42,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-00-6,JALAN 1/76E",MUTIARA UPPER EAST CONDO,180000,2019
+Mukim Ampang,22/3/2019,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B11-0-5,JLN KG PANDAN",DESA PANDAN,180000,2019
+Mukim Ampang,25/10/2017,69,Low-Cost Flat,Residential,Low-Cost Flat,5,"B12-0-2, GF,DESA PANDAN",DESA PANDAN,180000,2017
+Mukim Ampang,28/2/2017,67,Flat,Residential,Flat,5,"B12-4-1,JLN KG PANDAN",DESA PANDAN,180000,2017
+Mukim Ampang,13/8/2018,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B6-4-7,JLN KG PANDAN",DESA PANDAN,180000,2018
+Mukim Ampang,2/2/2018,67,Flat,Residential,Flat,5,"B4-2-5,JLN KG PANDAN",DESA PANDAN,170000,2018
+Mukim Ampang,10/7/2019,67,Flat,Residential,Flat,5,"E10-3-5,JLN KG PANDAN",DESA PANDAN,170000,2019
+Mukim Ampang,17/10/2019,49,Low-Cost Flat,Residential,Low-Cost Flat,5,"47 BLOK 2,JLN PERKASA 1",TMN MALURI,165000,2019
+Mukim Ampang,21/7/2017,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"E14-2-1,JALAN KAMPUNG PANDAN",DESA PANDAN,165000,2017
+Mukim Ampang,21/7/2017,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"E14-2-1,JALAN KAMPUNG PANDAN",DESA PANDAN,165000,2017
+Mukim Ampang,29/1/2018,67,Flat,Residential,Flat,5,"F2-0-2,JALAN KAMPUNG PANDAN",DESA PANDAN,165000,2018
+Mukim Ampang,21/8/2017,56,Low-Cost Flat,Residential,Low-Cost Flat,5,"119-3,JLN PERKASA 1",TMN MALURI,162000,2017
+Mukim Ampang,12/1/2018,52,Low-Cost Flat,Residential,Low-Cost Flat,4,"163-1,JLN PERKASA 1",TMN MALURI,160000,2018
+Mukim Ampang,8/5/2019,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"15-2,JLN PERKASA 1",TMN MALURI,150000,2019
+Mukim Ampang,13/11/2018,49,Low-Cost Flat,Residential,Low-Cost Flat,5,"193, BLOK 6,JLN PERKASA 1",TMN MALURI,150000,2018
+Mukim Ampang,14/1/2019,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"4D (41-4),(P:E-5-8),JLN PERKASA 1",TMN MALURI,150000,2019
+Mukim Ampang,17/8/2017,67,Flat,Residential,Flat,5,"A12-1-6,JALAN KG PANDAN",DESA PANDAN,150000,2017
+Mukim Ampang,28/6/2018,67,Flat,Residential,Flat,5,"A3-1-8,JALAN KAMPUNG PANDAN",DESA PANDAN,150000,2018
+Mukim Ampang,17/4/2019,66.516,Low-Cost Flat,Residential,Low-Cost Flat,5,"B3-4-8,JLN KG PANDAN",DESA PANDAN,150000,2019
+Mukim Ampang,1/9/2020,23,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-00-1,JALAN 1/76E",MUTIARA UPPER EAST CONDO,150000,2020
+Mukim Ampang,5/9/2018,49,Low-Cost Flat,Residential,Low-Cost Flat,5,"7(15),JLN PERKASA 1",TMN MALURI,140000,2018
+Mukim Ampang,19/1/2017,67,Flat,Residential,Flat,5,"A12-0-5,JLN KG PANDAN",DESA PANDAN,140000,2017
+Mukim Ampang,18/1/2019,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"73-4,JLN PERKASA 1",TMN MALURI,135000,2019
+Mukim Ampang,6/2/2020,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"141-4,JLN PERKASA 1",TMN MALURI,130000,2020
+Mukim Ampang,17/5/2017,67,Flat,Residential,Flat,5,"A2-4-2,JALAN KG PANDAN",DESA PANDAN,130000,2017
+Mukim Ampang,7/8/2019,67,Flat,Residential,Flat,5,"E8-1-1,JLN KG PANDAN",DESA PANDAN,130000,2019
+Mukim Ampang,21/12/2017,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"163-3,JLN PERKASA 1",TMN MALURI,125000,2017
+Mukim Ampang,28/12/2018,67,Condominium/Apartment,Residential,Condominium/Apartment,4,"BLK FI-03-03,JLN 9",DESA PANDAN,125000,2018
+Mukim Ampang,13/2/2019,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"123-4 BLOK 4,JLN PERKASA 1",TMN MALURI,123000,2019
+Mukim Ampang,30/12/2019,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"5C (43-3) BLOK 1,2&3,JLN PERKASA 1",TMN MALURI,120000,2019
+Mukim Ampang,27/8/2018,67,Low-Cost Flat,Residential,Low-Cost Flat,5,"B2-0-7,JALAN 2/76A",DESA PANDAN,120000,2018
+Mukim Ampang,17/12/2018,22670,Condominium/Apartment,Residential,Condominium/Apartment,23,"B-00-1,JALAN 1/76E",MUTIARA UPPER EAST CONDO,114000,2018
+Mukim Ampang,2/10/2017,67,Flat,Residential,Flat,5,"E14-1-3,JLN KG PANDAN",DESA PANDAN,110000,2017
+Mukim Ampang,26/2/2019,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"12C,JLN PERKASA",TMN MALURI,105000,2019
+Mukim Ampang,6/2/2017,49,Low-Cost Flat,Residential,Low-Cost Flat,5,"1-0-11,JLN PERKASA 1",TMN MALURI,100000,2017
+Mukim Ampang,2/2/2017,52,Low-Cost Flat,Residential,Low-Cost Flat,5,"37-4,JLN PERKASA 1",TMN MALURI,100000,2017
+Mukim Ampang,24/1/2018,0,Low-Cost Flat,Residential,Low-Cost Flat,5,"77-4,JLN PERKASA 1",TMN MALURI,100000,2018
+Mukim Ampang,18/4/2019,147,Condominium/Apartment,Residential,Condominium/Apartment,14,"M1-4-4,JALAN 5/76B",DESA PANDAN,100000,2019
+Mukim Ampang,18/4/2019,147,Condominium/Apartment,Residential,Condominium/Apartment,4,"M1-4-4,JALAN 5/76B",DESA PANDAN,100000,2019
+Mukim Ampang,6/3/2020,67,Flat,Residential,Flat,5,"A4-0-06,JLN KG PANDAN",DESA PANDAN,100000,2020
+Mukim Ampang,5/6/2018,56,Low-Cost Flat,Residential,Low-Cost Flat,5,"4-193 (A-5-11),JALAN CHERAS",TMN MALURI,99000,2018
+Mukim Ampang,26/7/2019,66.52,Low-Cost Flat,Residential,Low-Cost Flat,5,"A12-3-7,JLN KG PANDAN",DESA PANDAN,90000,2019
+Mukim Ampang,24/7/2019,89,Condominium/Apartment,Residential,Condominium/Apartment,5,"J7-1-3,JALAN KAMPONG PANDAN",DESA PANDAN,80000,2019
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-05-08,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,10/1/2018,74.32,Flat,Residential,Flat,20,"F-06-06,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-08-07,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-08-3A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-09-07,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-09-18,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-09-20,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-10-08,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-10-11,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-10-13,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-10-2,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-10-3,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-10-7,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-05,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-09,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-10,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-11,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-13A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-16,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-18,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-19,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-2,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-20,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-11-6,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-12-02,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-12-07,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-12-10,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-12-20,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-12-5,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-12-8,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13-15,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,9/3/2017,74.32,Flat,Residential,Flat,20,"F-13-18,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2017
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13-20,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13-3A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13-6,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13A-11,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13A-12,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13A-19,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13A-20,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13A-3A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-13A-9,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-15-03,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-15-16,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-15-17,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-15-7,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-01,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-10,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-12,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-13,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-17,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-18,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,10/2/2017,74.32,Flat,Residential,Flat,20,"F-16-19,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2017
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-3A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-6,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-7,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-16-9,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-12,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-13,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-13A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-15,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-16,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-17,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-18,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-3,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-17-8,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,6/3/2018,74.32,Flat,Residential,Flat,20,"F-17-9,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-18-06,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-18-07,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-18-11,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-18-18,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-18-2,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-18-3A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-18-5,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-19-01,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-19-11,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-19-12,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-19-18,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-5-11,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-5-13A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,10/2/2017,74.32,Flat,Residential,Flat,20,"F-5-3,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2017
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-5-5,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-5-7,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-6-10,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-6-3,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-6-7,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-6-8,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-7-12,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-7-13A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-7-19,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-7-5,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-8-1,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-8-12,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-8-13,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-8-13A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-8-17,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-8-8,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-9-10,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-9-19,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-9-3A,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,25/4/2018,74.32,Flat,Residential,Flat,20,"F-9-6,JALAN KAMPUNG PANDAN",RESIDENSI PANDAN MAS PARCEL B,42000,2018
+Mukim Ampang,7/9/2017,60,Low-Cost Flat,Residential,Low-Cost Flat,18,"A-02-19,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2017
+Mukim Ampang,10/12/2018,60,Low-Cost Flat,Residential,Low-Cost Flat,18,"A-02-19,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2018
+Mukim Ampang,10/12/2018,60,Low-Cost Flat,Residential,Low-Cost Flat,18,"A-03-02,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2018
+Mukim Ampang,2/10/2017,60,Low-Cost Flat,Residential,Low-Cost Flat,18,"A-07-18,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2017
+Mukim Ampang,12/12/2018,60,Low-Cost Flat,Residential,Low-Cost Flat,18,"A-07-18,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2018
+Mukim Ampang,19/4/2018,60.385,Low-Cost Flat,Residential,Low-Cost Flat,18,"A-12-19,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2018
+Mukim Ampang,7/4/2017,60,Low-Cost Flat,Residential,Low-Cost Flat,18,"B-02-03,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2017
+Mukim Ampang,8/5/2019,60.385,Low-Cost Flat,Residential,Low-Cost Flat,18,"B-13-19,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2019
+Mukim Ampang,2/10/2017,60.385,Low-Cost Flat,Residential,Low-Cost Flat,18,"C-09-10,JLN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2017
+Mukim Ampang,13/3/2019,60.385,Low-Cost Flat,Residential,Low-Cost Flat,18,"C-17-10,JALAN LINGKARAN TENGAH II",PPR HILIRAN AMPANG,35000,2019
